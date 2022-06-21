@@ -9,7 +9,7 @@ Indonesia telah melalui jalan yang sulit untuk menjadi negaranya sendiri. Dalam 
 
 ## I.	PENDAHULUAN
 
-Latar Belakang
+### **Latar Belakang**
 
 Ada banyak penyebab utama dari konflik, seperti adanya perbedaan pendapat individu serta perbedaan latar belakang kebudayaan sehingga membentuk pribadi-pribadi yang berbeda. Aktivitas politik, bentuk dan intensitasnya, dapat bercerita banyak tentang keadaan masyarakat dan negara yang diteliti. Misalnya, diketahui bahwa di negara-negara demokratis, sebagai suatu peraturan, ada lebih banyak protes daripada di negara-negara otoriter, tetapi mereka lebih jarang disertai dengan korban manusia.
 Maka dari itu, kebutuhan akan data peristiwa semakin meningkat untuk menganalisis konflik yang terjadi di negara Indonesia. Salah satu data yang bisa digunakan adalah data ACLED (The Armed Conflict Location & Event Data Project). ACLED adalah sumber data dan analisis real-time dengan kualitas tertinggi dan paling banyak digunakan tentang kekerasan dan protes politik di seluruh dunia. ACLED mengkodekan tanggal, aktor, lokasi, korban jiwa, dan jenis semua kekerasan politik yang dilaporkan dan peristiwa demonstrasi di lebih dari 150 negara dan wilayah secara real-time. Data dikumpulkan dan dianalisis oleh tim peneliti yang berbasis di seluruh dunia. ACLED dipimpin oleh pendiri dan Direktur Eksekutif Prof. Clionadh Raleigh, Profesor Kekerasan Politik dan Geografi di University of Sussex, dan dioperasikan oleh Direktur Riset Dr. Roudabeh Kishi dan Direktur Program Olivia Russell. Pada tahun 2020, ACLED telah mencatat hampir satu juta peristiwa individu di Afrika, Timur Tengah, Amerika Latin & Karibia, Asia Timur, Asia Selatan, Asia Tenggara, Asia Tengah & Kaukasus, dan Eropa Tenggara & Timur & Balkan. 
@@ -826,8 +826,7 @@ ul
 <body lang=EN-US style='tab-interval:36.0pt'>
 <!--StartFragment-->
 
-<p class=MsoBodyText style='text-indent:0cm'><b style='mso-bidi-font-weight:
-normal'><span lang=IN style='mso-ansi-language:IN'>Evaluasi<o:p></o:p></span></b></p>
+### **Evaluasi**
 
 <p class=MsoBodyText><span lang=IN style='mso-ansi-language:IN'>Hasil Evaluasi <o:p></o:p></span></p>
 
@@ -1633,7 +1632,7 @@ ul
 
   
 
-**Publikasi**
+### **Publikasi**
   
 
 Hasil dashboard dan analisis visualisasi akan di unggah di Tableau Public, pada link dibawah ini: 
