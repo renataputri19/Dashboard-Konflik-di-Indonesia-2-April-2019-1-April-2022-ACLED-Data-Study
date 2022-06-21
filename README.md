@@ -1636,7 +1636,7 @@ ul
   
 
 Hasil dashboard dan analisis visualisasi akan di unggah di Tableau Public, pada link dibawah ini: 
-Tableau Public: https://public.tableau.com/app/profile/renata.putri.henessa/viz/UAS_16541588366490/Story2#1
+https://public.tableau.com/app/profile/renata.putri.henessa/viz/UAS_16541588366490/Story2#1
 
 
 ## IV.	KESIMPULAN
